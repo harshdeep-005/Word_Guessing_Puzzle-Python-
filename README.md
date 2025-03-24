@@ -7,7 +7,7 @@ Installation:
 1.Ensure you have Python 3 installed on your computer.
 
 2.Clone this repository to your local machine:
-  git clone https://github.com/harshdeep-005/hangman-game.git
+  git clone https://github.com/harshdeep-005/Word_Guessing_Puzzle-Python-
 
 3.Navigate to the project directory:
   cd hangman-game
