@@ -1,10 +1,7 @@
 ### Screenshots ###
 ![](https://github.com/harshdeep-005/Word_Guessing_Puzzle-Python-/blob/main/Screenshot%202025-07-06%20172556.png)
-![]()
-![]()
-### Screenshots ###
-## Latest
-![](https://github.com/harshdeep-005/git-uploads/blob/main/Screenshot%202025-06-10%20183724.png?raw=true)
+![](https://github.com/harshdeep-005/Word_Guessing_Puzzle-Python-/blob/main/Screenshot%202025-07-06%20172802.png)
+![](https://github.com/harshdeep-005/Word_Guessing_Puzzle-Python-/blob/main/Screenshot%202025-07-06%20172827.png)
 
 
 Hangman Game
