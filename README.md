@@ -1,3 +1,14 @@
+### Screenshots ###
+![](![image](https://github.com/user-attachments/assets/8fccc41c-abbd-4eab-b958-d5797b63c01a)
+)
+![](![image](https://github.com/user-attachments/assets/75d57c19-bb09-4018-8ad2-c3a0adb14260)
+)
+)
+![](![image](https://github.com/user-attachments/assets/1e636c3b-91f6-43b2-a2fe-9af1848ee798)
+)
+)
+
+
 Hangman Game
 
 This is a simple text-based Hangman game implemented in Python. The game allows players to guess letters to uncover a hidden word within a limited number of attempts.
